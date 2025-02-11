@@ -2,3 +2,4 @@ azure-core
 azure-ai-inference
 python-dotenv
 flask
+uvicorn
