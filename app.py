@@ -38,7 +38,9 @@ def home():
             </style>
         </head>
         <body>
-            <h1>DeepSeek WebApp</h1>
+            
+            <h1>DeepSeek - Chatbot</h1>
+          
             <div id="chat">
                 <div id="messages"></div>
                 <form onsubmit="sendMessage(event)">
