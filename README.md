@@ -1,5 +1,5 @@
-# DeepSeek R1 Web App 
-# DeepSeek R1 Web App
+# DeepSeek R1 Chatbot 
+
 
 This project is a Flask-based web app that integrates with Azure's AI Inference to provide a chatbot experience with incremental streaming of responses. Follow these instructions to run the repository on your local environment.
 
